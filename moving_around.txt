@@ -1,0 +1,98 @@
+    #where you are in the document
+    1  pwd
+    #current dirrectory in the c drive
+    2  cd /c
+    3  pwd
+    #list where you curretly at
+    4  ls
+    #quit
+    5  q
+    #home directory
+    6  cd ~
+    7  pwd
+    #clear all "things" on the screen
+    8  clear
+    9  ls
+    #goes to the desktop
+   10  cd Desktop
+   11  ls
+   12  cd
+   13  ls
+   #curret directoy to the desktop
+   14  cd Desktop
+   15  ls
+   16  cd codefellows
+   17  ls
+   18  cd fightingGametwo
+   19  ls
+   20  pwd
+   21  cd index.html
+   # curret dirrecty goes back
+   22  cd ..
+   23  cd
+   24  clear
+   25  Download
+   26  ls Downloads/
+   #at the curret dirrectory
+   27  ls .
+   28  subl .
+   29  clear
+   30  history
+   31  history -r
+   32  history |less
+   33  history |less
+   34  /git
+   35  history /git
+   36  history | less
+   37  cd
+   38  history > moving_around.txt
+   39  ls
+   40  -l
+   41  ls -l
+   42  ll
+   43  history > moving_around.txt
+    1  pwd
+    2  cd /c
+    3  pwd
+    4  ls
+    5  q
+    6  cd ~
+    7  pwd
+    8  clear
+    9  ls
+   10  cd Desktop
+   11  ls
+   12  cd
+   13  ls
+   14  cd Desktop
+   15  ls
+   16  cd codefellows
+   17  ls
+   18  cd fightingGametwo
+   19  ls
+   20  pwd
+   21  cd index.html
+   22  cd ..
+   23  cd
+   24  clear
+   25  Download
+   26  ls Downloads/
+   27  ls .
+   28  subl .
+   29  clear
+   30  history
+   31  history -r
+   32  history |less
+   33  history |less
+   34  /git
+   35  history /git
+   36  history | less
+   37  cd
+   38  history > moving_around.txt
+   39  ls
+   40  -l
+   41  ls -l
+   42  ll
+   43  history > moving_around.txt
+   44  clear
+   45  history >> moving_around.txt
