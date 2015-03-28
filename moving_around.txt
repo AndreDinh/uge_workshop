@@ -96,3 +96,4 @@
    43  history > moving_around.txt
    44  clear
    45  history >> moving_around.txt
+#change .git/
